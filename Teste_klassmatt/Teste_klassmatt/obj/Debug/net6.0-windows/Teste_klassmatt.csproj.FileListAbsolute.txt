@@ -1,0 +1,15 @@
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net6.0-windows\Teste_klassmatt.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net6.0-windows\Teste_klassmatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net6.0-windows\Teste_klassmatt.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net6.0-windows\Teste_klassmatt.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net6.0-windows\Teste_klassmatt.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net6.0-windows\Teste_klassmatt.exe
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net6.0-windows\Teste_klassmatt.deps.json
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net6.0-windows\Teste_klassmatt.runtimeconfig.json
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net6.0-windows\Teste_klassmatt.dll
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net6.0-windows\Teste_klassmatt.pdb
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net6.0-windows\Teste_klassmatt.dll
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net6.0-windows\refint\Teste_klassmatt.dll
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net6.0-windows\Teste_klassmatt.pdb
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net6.0-windows\Teste_klassmatt.genruntimeconfig.cache
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net6.0-windows\ref\Teste_klassmatt.dll

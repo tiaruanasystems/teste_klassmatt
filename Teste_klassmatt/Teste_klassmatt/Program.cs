@@ -1,16 +1,17 @@
 ﻿using System;
-using Teste_klassmatt.Dominio;
 
 namespace Teste_klassmatt
 {
     internal class Program
     {
-
-        private bool fimDeJogo = false;
-
-        static void Main()
+        private static void Main(string[] args)
         {
-            new Jogo().Iniciar();
+            Console.SetWindowSize(90, 25);
+            Console.Title = "Jogo da Velha";
+
+            Partida Partida = new Partida();
+            Partida.IniciarJogo();
+            Console.ReadKey();
         }
 
     }

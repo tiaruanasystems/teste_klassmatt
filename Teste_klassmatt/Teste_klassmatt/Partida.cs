@@ -258,6 +258,7 @@ namespace Teste_klassmatt
 
                 if (opcao != null)
                 {
+                    
                     switch (opcao.Trim().ToUpper())
                     {
                         case "S":
@@ -293,6 +294,10 @@ namespace Teste_klassmatt
             Console.WriteLine("");
             Console.WriteLine("º Escolha o quadrante a ser jogado pelo número no tabuleiro;");
             Console.ReadKey();
+
+            IniciaJogoFalso();
+
+
             Console.Clear();
         }
 
@@ -340,5 +345,154 @@ namespace Teste_klassmatt
                 IncluirUsuarios();
             }
         }
+
+
+        private void IniciaJogoFalso()
+        {
+            IniciaJogadoresFalsos();
+            ExibeTabuleiroFalso();
+        }
+
+        //private void IniciaJogadoresFalsos()
+        //{
+        //    listaJogadores = new List<Jogador>();
+        //    while (listaJogadores.Count < 2)
+        //    {
+        //        Jogador novoJogador = new Jogador();
+
+        //        Console.WriteLine("Por favor, insira o nome do participante nº " + (listaJogadores.Count + 1) + ":");
+        //        string nome = Console.ReadLine();
+
+        //        if (nome == null || nome.Trim() == "")
+        //        {
+        //            Console.WriteLine("Por favor, insira um nome válido!");
+        //            Console.WriteLine("");
+        //        }
+        //        else
+        //        {
+        //            novoJogador.Nome = nome;
+        //            novoJogador.Simbolo = (EstadoCampo)listaJogadores.Count;
+        //            listaJogadores.Add(novoJogador);
+        //        }
+        //    }
+
+        //    if (listaJogadores.Count > 1)
+        //    {
+        //        Jogador aux = new Jogador();
+        //        listaJogadores.ForEach(x => { x.Next = aux; aux = x; });
+        //        JogadorAtual = listaJogadores[0];
+        //        JogadorAtual.Next = aux;
+        //    }
+        //}
+
+
+        //private void ExibeTabuleiroFalso()
+        //{
+        //    var dictTabuleiro = tabuleiro.GetTabuleiro();
+
+        //    for (int i = 2; i < 13; i++)
+        //    {
+        //        Console.SetCursorPosition((90 - 75), i);
+        //        Console.Write("|");
+        //        Console.SetCursorPosition((90 - 65), i);
+        //        Console.Write("|");
+        //    }
+
+        //    for (int i = 2; i < 12; i++)
+        //    {
+        //        Console.SetCursorPosition((90 - 81), 5);
+        //        Console.Write("-----------------------");
+        //        Console.SetCursorPosition((90 - 81), 9);
+        //        Console.Write("-----------------------");
+        //    }
+
+        //    Console.SetCursorPosition((90 - 81), 2);
+        //    if (dictTabuleiro[0] != EstadoCampo.Vazio)
+        //    {
+        //        Console.ForegroundColor = ConsoleColor.Yellow;
+        //        Console.Write(dictTabuleiro[0].ToString());
+        //        Console.ForegroundColor = ConsoleColor.White;
+        //    }
+        //    else
+        //        Console.Write("1");
+
+        //    Console.SetCursorPosition((90 - 81), 6);
+        //    if (dictTabuleiro[3] != EstadoCampo.Vazio)
+        //    {
+        //        Console.ForegroundColor = ConsoleColor.Yellow;
+
+        //        Console.Write(dictTabuleiro[3].ToString());
+        //        Console.ForegroundColor = ConsoleColor.White;
+        //    }
+        //    else
+        //        Console.Write("4");
+        //    Console.SetCursorPosition((90 - 81), 10);
+        //    if (dictTabuleiro[6] != EstadoCampo.Vazio)
+        //    {
+        //        Console.ForegroundColor = ConsoleColor.Yellow;
+        //        Console.Write(dictTabuleiro[6].ToString());
+        //        Console.ForegroundColor = ConsoleColor.White;
+        //    }
+        //    else
+        //        Console.Write("7");
+        //    Console.SetCursorPosition((90 - 74), 2);
+        //    if (dictTabuleiro[1] != EstadoCampo.Vazio)
+        //    {
+        //        Console.ForegroundColor = ConsoleColor.Yellow;
+        //        Console.Write(dictTabuleiro[1].ToString());
+        //        Console.ForegroundColor = ConsoleColor.White;
+        //    }
+        //    else
+        //        Console.Write("2");
+        //    Console.SetCursorPosition((90 - 74), 6);
+        //    if (dictTabuleiro[4] != EstadoCampo.Vazio)
+        //    {
+        //        Console.ForegroundColor = ConsoleColor.Yellow;
+        //        Console.Write(dictTabuleiro[4].ToString());
+        //        Console.ForegroundColor = ConsoleColor.White;
+        //    }
+        //    else
+        //        Console.Write("5");
+        //    Console.SetCursorPosition((90 - 74), 10);
+        //    if (dictTabuleiro[7] != EstadoCampo.Vazio)
+        //    {
+        //        Console.ForegroundColor = ConsoleColor.Yellow;
+        //        Console.Write(dictTabuleiro[7].ToString());
+        //        Console.ForegroundColor = ConsoleColor.White;
+        //    }
+        //    else
+        //        Console.Write("8");
+        //    Console.SetCursorPosition((90 - 64), 2);
+        //    if (dictTabuleiro[2] != EstadoCampo.Vazio)
+        //    {
+        //        Console.ForegroundColor = ConsoleColor.Yellow;
+        //        Console.Write(dictTabuleiro[2].ToString());
+        //        Console.ForegroundColor = ConsoleColor.White;
+        //    }
+        //    else
+        //        Console.Write("3");
+        //    Console.SetCursorPosition((90 - 64), 6);
+        //    if (dictTabuleiro[5] != EstadoCampo.Vazio)
+        //    {
+        //        Console.ForegroundColor = ConsoleColor.Yellow;
+        //        Console.Write(dictTabuleiro[5].ToString());
+        //        Console.ForegroundColor = ConsoleColor.White;
+        //    }
+        //    else
+        //        Console.Write("6");
+        //    Console.SetCursorPosition((90 - 64), 10);
+        //    if (dictTabuleiro[8] != EstadoCampo.Vazio)
+        //    {
+        //        Console.ForegroundColor = ConsoleColor.Yellow;
+        //        Console.Write(dictTabuleiro[8].ToString());
+        //        Console.ForegroundColor = ConsoleColor.White;
+        //    }
+        //    else
+        //        Console.Write("9");
+
+        //    Console.SetCursorPosition((0), 16);
+        //}
+
+
     }
 }

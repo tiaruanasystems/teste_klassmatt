@@ -1,0 +1,16 @@
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net5.0\Teste_klassmatt.exe
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net5.0\Teste_klassmatt.deps.json
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net5.0\Teste_klassmatt.runtimeconfig.json
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net5.0\Teste_klassmatt.runtimeconfig.dev.json
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net5.0\Teste_klassmatt.dll
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\bin\Debug\net5.0\Teste_klassmatt.pdb
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net5.0\Teste_klassmatt.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net5.0\Teste_klassmatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net5.0\Teste_klassmatt.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net5.0\Teste_klassmatt.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net5.0\Teste_klassmatt.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net5.0\Teste_klassmatt.dll
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net5.0\refint\Teste_klassmatt.dll
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net5.0\Teste_klassmatt.pdb
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net5.0\Teste_klassmatt.genruntimeconfig.cache
+C:\Users\Thiago\Documents\Fontes\Jogo da Velha\Teste_klassmatt\Teste_klassmatt\obj\Debug\net5.0\ref\Teste_klassmatt.dll
